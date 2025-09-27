@@ -1,0 +1,25 @@
+Active neighbor list:
+
+ID: 3006e05b-1837-145b-e075-a5331ef258f2
+  Interfaces:
+    - Name     : ens8
+      MAC      : 52:54:00:72:37:4b
+      IPv4     : 192.168.100.195
+      IPv6     : fe80::5054:ff:fe72:374b
+
+ID: 32ef0f86-c7f3-579a-5f54-f77bef7d4106
+  Interfaces:
+    - Name     : ens3
+      MAC      : 52:54:00:3c:16:86
+      IPv4     : 192.168.100.214
+      IPv6     : fe80::5054:ff:fe3c:1686
+
+ID: ae8e9e30-266b-df22-484b-bae804b57cea
+  Interfaces:
+    - Name     : ens3
+      MAC      : 52:54:00:b3:93:9f
+      IPv4     : 192.168.100.135
+      IPv6     : fe80::5054:ff:feb3:939f
+
+Summary: 3 neighbour(s), 3 interface(s).
+
